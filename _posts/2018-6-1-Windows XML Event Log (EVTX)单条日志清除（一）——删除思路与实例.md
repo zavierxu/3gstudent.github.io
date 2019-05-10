@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Windows单条日志清除（一）——删除思路与实例
+title: Windows XML Event Log (EVTX)单条日志清除（一）——删除思路与实例
 ---
 
 
 ## 0x00 前言
 ---
 
-Windows单条日志清除系列文章的第一篇，侧重于介绍基础知识和删除单条日志的实现思路与实例
+Windows XML Event Log (EVTX)单条日志清除系列文章的第一篇，侧重于介绍evtx日志文件的基础知识和删除单条日志的实现思路与实例
 
 ## 0x01 简介
 ---
@@ -228,7 +228,7 @@ https://github.com/fox-it/danderspritz-evtx
 
 下载地址：
 
-https://github.com/3gstudent/Eventlogedit-Evolution/raw/master/System.evtx
+https://github.com/3gstudent/Eventlogedit-evtx--Evolution/blob/master/System.evtx
 
 文件包含4条日志，下面演示如何删除第4条日志
 
@@ -365,7 +365,7 @@ Checksum为ElfChuk中0-120和128-512这些内容的CRC32校验和，结果为0x3
 
 下载地址：
 
-https://github.com/3gstudent/Eventlogedit-Evolution/raw/master/System2.evtx
+https://github.com/3gstudent/Eventlogedit-evtx--Evolution/blob/master/System2.evtx
 
 **注：**
 

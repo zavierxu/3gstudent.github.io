@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Windows单条日志清除（二）——程序实现删除evtx文件的单条日志记录
+title: Windows XML Event Log (EVTX)单条日志清除（二）——程序实现删除evtx文件的单条日志记录
 ---
 
 ## 0x00 前言
 ---
 
-Windows单条日志清除系列文章的第二篇，介绍对指定evtx文件的单条日志删除方法，解决在程序设计上需要考虑的多个问题，开源实现代码。
+Windows XML Event Log (EVTX)单条日志清除系列文章的第二篇，介绍对指定evtx文件的单条日志删除方法，解决在程序设计上需要考虑的多个问题，开源实现代码。
 
 ## 0x01 简介
 ---
@@ -17,11 +17,10 @@ Windows单条日志清除系列文章的第二篇，介绍对指定evtx文件的
 - 程序实现细节
 - 开源代码
 
-
 ## 0x02 对指定evtx文件单条日志的删除思路
 ---
 
-在上篇文章《Windows单条日志清除（一）——删除思路与实例》介绍了删除单条日志的原理和一个实例，采用修改日志长度的方法实现日志删除
+在上篇文章《Windows XML Event Log (EVTX)单条日志清除（一）——删除思路与实例》介绍了evtx日志文件中删除单条日志的原理和一个实例，采用修改日志长度的方法实现日志删除
 
 实现思路如图
 
@@ -118,7 +117,6 @@ memcpy(ChecksumBuf, (PBYTE)elfFilePtr, 120);
 crc32 = GetCRC32(ChecksumBuf, 120);
 ```
 
-
 ### 3、重新计算前一日志长度，共2个位置(偏移4和当前日志的最后4字节)
 
 通过搜索magic string `0x2A 0x2A 0x00 0x00`逐个定位Event Record
@@ -148,7 +146,7 @@ PrevRecord->Size = NewSize
 使用NewSize替换NextRecord起始点前的4字节：
 
 ```
-*(PULONG)(NextRecord-4) = NewSize
+*(PULONG)((PBYTE)NextRecord-4) = NewSize
 ```
 
 ### 4、后续日志的Event record identifier依次减1
@@ -191,12 +189,10 @@ memcpy(ChecksumBuf+120, (PBYTE)currentChunk+128, 384);
 crc32 = GetCRC32(ChecksumBuf, 504);
 ```
 
-
 ## 0x04 删除最后一条日志
 ---
 
-
-删除最后一条日志在上篇文章《Windows单条日志清除（一）——删除思路与实例》做过实例演示，与删除中间日志的方法基本相同
+删除最后一条日志在上篇文章《Windows XML Event Log (EVTX)单条日志清除（一）——删除思路与实例》做过实例演示，与删除中间日志的方法基本相同
 
 区别如下：
 
@@ -231,22 +227,21 @@ https://github.com/libyal/libevtx/blob/master/documentation/Windows%20XML%20Even
 - Template definition Data size
 - Next template definition offset
 
-
 **注：**
 
 该方法同样适用于修改中间日志和最后一条日志，所以说，只要理解了日志格式，删除的方法不唯一
 
-
 其他实现的细节见开源代码，地址如下：
 
-https://github.com/3gstudent/Eventlogedit-Evolution
+https://github.com/3gstudent/Eventlogedit-evtx--Evolution/blob/master/DeleteRecordofFile.cpp
+
+代码实现了读取指定日志文件`c:\\test\\Setup.evtx`，删除单条日志(EventRecordID=14)，并保存为新的日志文件`c:\\test\\SetupNew.evtx`
 
 **注：**
 
 在代码的实现细节上我参考了看雪上的Demo代码，地址如下：
 
 https://bbs.pediy.com/thread-219313.htm
-
 
 
 ## 0x06 小结

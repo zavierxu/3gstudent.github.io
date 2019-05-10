@@ -8,9 +8,6 @@ Security Research
 
 More to learn
 
-[+] 100 posts done  :D
-
-![](https://raw.githubusercontent.com/3gstudent/3gstudent.github.io/master/images/wow.jpeg)
 
 ### Contact
 
@@ -68,10 +65,13 @@ Github:   [3gstudent](https://github.com/3gstudent)
 
 ---
 
-### Recent Posts(124/131)
+### Recent Posts(166/168)
 
 - 
  [An interesting way of bypassing Windows Attachment Manager](https://3gstudent.github.io/3gstudent.github.io/An-interesting-way-of-bypassing-Windows-Attachment-Manager/)
+
+- 
+ [AntiVirus Evasion Tool(avet)测试分析](https://3gstudent.github.io/3gstudent.github.io/AntiVirus-Evasion-Tool(avet)%E6%B5%8B%E8%AF%95%E5%88%86%E6%9E%90/)
 
 - 
  [AtomBombing利用分析](https://3gstudent.github.io/3gstudent.github.io/AtomBombing%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
@@ -101,16 +101,25 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [CIA Vault7 RDB中的Windows后门利用方法分析](https://3gstudent.github.io/3gstudent.github.io/CIA-Vault7-RDB%E4%B8%AD%E7%9A%84Windows%E5%90%8E%E9%97%A8%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95%E5%88%86%E6%9E%90/)
  
 - 
+ [CVE-2017-8360(Keylogger in HP Audio Driver)利用分析](https://3gstudent.github.io/3gstudent.github.io/CVE-2017-8360(Keylogger-in-HP-Audio-Driver)%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
+ 
+- 
  [DLL劫持漏洞自动化识别工具Rattler测试](https://3gstudent.github.io/3gstudent.github.io/DLL%E5%8A%AB%E6%8C%81%E6%BC%8F%E6%B4%9E%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7Rattler%E6%B5%8B%E8%AF%95/)
 
 - 
  [Empire中的Invoke-WScriptBypassUAC利用分析](https://3gstudent.github.io/3gstudent.github.io/Empire%E4%B8%AD%E7%9A%84Invoke-WScriptBypassUAC%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
  
 - 
+ [Exchange Web Service(EWS)开发指南](https://3gstudent.github.io/3gstudent.github.io/Exchange-Web-Service(EWS)%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/)
+ 
+- 
  [Hidden Alternative Data Streams的进阶利用技巧](https://3gstudent.github.io/3gstudent.github.io/Hidden-Alternative-Data-Streams%E7%9A%84%E8%BF%9B%E9%98%B6%E5%88%A9%E7%94%A8%E6%8A%80%E5%B7%A7/)
  
 - 
  [Joomla 3.4.4-3.6.3 Account Creation &Privilege Escalation测试记录](https://3gstudent.github.io/3gstudent.github.io/Joomla-3.4.4-3.6.3-Account-Creation-&Privilege-Escalation%E6%B5%8B%E8%AF%95%E8%AE%B0%E5%BD%95/)
+ 
+- 
+ 《Lateral Movement — SCM and DLL Hijacking Primer》的利用扩展
  
 - 
  [Linux下的密码Hash——加密方式与破解方法的技术整理](https://3gstudent.github.io/3gstudent.github.io/Linux%E4%B8%8B%E7%9A%84%E5%AF%86%E7%A0%81Hash-%E5%8A%A0%E5%AF%86%E6%96%B9%E5%BC%8F%E4%B8%8E%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95%E7%9A%84%E6%8A%80%E6%9C%AF%E6%95%B4%E7%90%86/)
@@ -131,13 +140,16 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [Password Filter DLL在渗透测试中的应用](https://3gstudent.github.io/3gstudent.github.io/Password-Filter-DLL%E5%9C%A8%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/)
  
 - 
+ [Phishing credentials via Basic Authentication(phishery)利用测试](https://3gstudent.github.io/3gstudent.github.io/Phishing-credentials-via-Basic-Authentication(phishery)%E5%88%A9%E7%94%A8%E6%B5%8B%E8%AF%95/)
+ 
+- 
  [Powershell tricks::Hide Process by kd.exe](https://3gstudent.github.io/3gstudent.github.io/Powershell-tricks-Hide-Process-by-kd.exe/)
  
 - 
  [Process Doppelganging利用介绍](https://3gstudent.github.io/3gstudent.github.io/Process-Doppelganging%E5%88%A9%E7%94%A8%E4%BB%8B%E7%BB%8D/)
  
 - 
- Shodan API使用指南
+ [Shodan API使用指南](https://3gstudent.github.io/3gstudent.github.io/Shodan-API%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
  
 - 
  [Study Notes of using dnx.exe / rcsi.exe to bypass Decvice Guard UMCI](https://3gstudent.github.io/3gstudent.github.io/Study-Notes-of-using-dnx.exe-&-rcsi.exe-to-bypass-Decvice-Guard-UMCI/)
@@ -239,16 +251,31 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [Windows Shellcode学习笔记——利用VirtualAlloc绕过DEP](https://3gstudent.github.io/3gstudent.github.io/Windows-Shellcode%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%88%A9%E7%94%A8VirtualAlloc%E7%BB%95%E8%BF%87DEP/)
 
 - 
- Windows单条日志清除（一）——删除思路与实例
+ [Windows XML Event Log (EVTX)单条日志清除（一）——删除思路与实例](https://3gstudent.github.io/3gstudent.github.io/Windows-XML-Event-Log-(EVTX)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%B8%80-%E5%88%A0%E9%99%A4%E6%80%9D%E8%B7%AF%E4%B8%8E%E5%AE%9E%E4%BE%8B/)
 
 - 
- Windows单条日志清除（二）——程序实现删除evtx文件的单条日志记录
+ [Windows XML Event Log (EVTX)单条日志清除（二）——程序实现删除evtx文件的单条日志记录](https://3gstudent.github.io/3gstudent.github.io/Windows-XML-Event-Log-(EVTX)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%BA%8C-%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E5%88%A0%E9%99%A4evtx%E6%96%87%E4%BB%B6%E7%9A%84%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95/)
 
 - 
- Windows单条日志清除（三）——通过解除文件占用删除当前系统单条日志记录
+ [Windows XML Event Log (EVTX)单条日志清除（三）——通过解除文件占用删除当前系统单条日志记录](https://3gstudent.github.io/3gstudent.github.io/Windows-XML-Event-Log-(EVTX)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%B8%89-%E9%80%9A%E8%BF%87%E8%A7%A3%E9%99%A4%E6%96%87%E4%BB%B6%E5%8D%A0%E7%94%A8%E5%88%A0%E9%99%A4%E5%BD%93%E5%89%8D%E7%B3%BB%E7%BB%9F%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95/)
 
 - 
- Windows单条日志清除（四）——通过获取日志文件句柄删除当前系统单条日志记录
+ [Windows XML Event Log (EVTX)单条日志清除（四）——通过注入获取日志文件句柄删除当前系统单条日志记录](https://3gstudent.github.io/3gstudent.github.io/Windows-XML-Event-Log-(EVTX)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E5%9B%9B-%E9%80%9A%E8%BF%87%E6%B3%A8%E5%85%A5%E8%8E%B7%E5%8F%96%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E5%8F%A5%E6%9F%84%E5%88%A0%E9%99%A4%E5%BD%93%E5%89%8D%E7%B3%BB%E7%BB%9F%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95/)
+
+- 
+ [Windows XML Event Log (EVTX)单条日志清除（五）——通过DuplicateHandle获取日志文件句柄删除当前系统单条日志记录](https://3gstudent.github.io/3gstudent.github.io/Windows-XML-Event-Log-(EVTX)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%BA%94-%E9%80%9A%E8%BF%87DuplicateHandle%E8%8E%B7%E5%8F%96%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%E5%8F%A5%E6%9F%84%E5%88%A0%E9%99%A4%E5%BD%93%E5%89%8D%E7%B3%BB%E7%BB%9F%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95/)
+
+- 
+ [Windows Event Viewer Log (EVT)单条日志清除（一）——删除思路与实例](https://3gstudent.github.io/3gstudent.github.io/Windows-Event-Viewer-Log-(EVT)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%B8%80-%E5%88%A0%E9%99%A4%E6%80%9D%E8%B7%AF%E4%B8%8E%E5%AE%9E%E4%BE%8B/)
+
+- 
+ [Windows Event Viewer Log (EVT)单条日志清除（二）——程序实现删除evt文件指定时间段的日志记录](https://3gstudent.github.io/3gstudent.github.io/Windows-Event-Viewer-Log-(EVT)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%BA%8C-%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E5%88%A0%E9%99%A4evt%E6%96%87%E4%BB%B6%E6%8C%87%E5%AE%9A%E6%97%B6%E9%97%B4%E6%AE%B5%E7%9A%84%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95/)
+
+- 
+ [Windows Event Viewer Log (EVT)单条日志清除（三）——删除当前系统指定指定时间段evt日志记录](https://3gstudent.github.io/3gstudent.github.io/Windows-Event-Viewer-Log-(EVT)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%B8%89-%E5%88%A0%E9%99%A4%E5%BD%93%E5%89%8D%E7%B3%BB%E7%BB%9F%E6%8C%87%E5%AE%9A%E6%8C%87%E5%AE%9A%E6%97%B6%E9%97%B4%E6%AE%B5evt%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95/)
+
+- 
+ [Windows本地提权工具Juicy Potato测试分析](https://3gstudent.github.io/3gstudent.github.io/Windows%E6%9C%AC%E5%9C%B0%E6%8F%90%E6%9D%83%E5%B7%A5%E5%85%B7Juicy-Potato%E6%B5%8B%E8%AF%95%E5%88%86%E6%9E%90/)
 
 - 
  [Windows下的密码hash——NTLM hash和Net-NTLM hash介绍](https://3gstudent.github.io/3gstudent.github.io/Windows%E4%B8%8B%E7%9A%84%E5%AF%86%E7%A0%81hash-NTLM-hash%E5%92%8CNet-NTLM-hash%E4%BB%8B%E7%BB%8D/)
@@ -260,11 +287,20 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [本地密码查看工具LaZagne中的自定义脚本开发](https://3gstudent.github.io/3gstudent.github.io/%E6%9C%AC%E5%9C%B0%E5%AF%86%E7%A0%81%E6%9F%A5%E7%9C%8B%E5%B7%A5%E5%85%B7LaZagne%E4%B8%AD%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91/)
  
 - 
+ [对APT34泄露工具的分析——HighShell和HyperShell](https://3gstudent.github.io/3gstudent.github.io/%E5%AF%B9APT34%E6%B3%84%E9%9C%B2%E5%B7%A5%E5%85%B7%E7%9A%84%E5%88%86%E6%9E%90-HighShell%E5%92%8CHyperShell/)
+ 
+- 
+ [对APT34泄露工具的分析——PoisonFrog和Glimpse](https://3gstudent.github.io/3gstudent.github.io/%E5%AF%B9APT34%E6%B3%84%E9%9C%B2%E5%B7%A5%E5%85%B7%E7%9A%84%E5%88%86%E6%9E%90-PoisonFrog%E5%92%8CGlimpse/)
+  
+- 
  [故障诊断平台在渗透测试中的应用技巧](https://3gstudent.github.io/3gstudent.github.io/%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E5%B9%B3%E5%8F%B0%E5%9C%A8%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E6%8A%80%E5%B7%A7/) 
 
 - 
  [关于利用rundll32执行程序的分析](https://3gstudent.github.io/3gstudent.github.io/%E5%85%B3%E4%BA%8E%E5%88%A9%E7%94%A8rundll32%E6%89%A7%E8%A1%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%9E%90/)
 
+- 
+ [结束进程导致BSOD的利用分析](https://3gstudent.github.io/3gstudent.github.io/%E7%BB%93%E6%9D%9F%E8%BF%9B%E7%A8%8B%E5%AF%BC%E8%87%B4BSOD%E7%9A%84%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
+ 
 - 
  [傀儡进程的实现与检测](https://3gstudent.github.io/3gstudent.github.io/%E5%82%80%E5%84%A1%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%AE%9E%E7%8E%B0%E4%B8%8E%E6%A3%80%E6%B5%8B/)
 
@@ -296,6 +332,9 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [利用wmic调用xsl文件的分析与利用](https://3gstudent.github.io/3gstudent.github.io/%E5%88%A9%E7%94%A8wmic%E8%B0%83%E7%94%A8xsl%E6%96%87%E4%BB%B6%E7%9A%84%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8/)
  
 - 
+ [模拟可信目录的利用技巧扩展](https://3gstudent.github.io/3gstudent.github.io/%E6%A8%A1%E6%8B%9F%E5%8F%AF%E4%BF%A1%E7%9B%AE%E5%BD%95%E7%9A%84%E5%88%A9%E7%94%A8%E6%8A%80%E5%B7%A7%E6%89%A9%E5%B1%95/)
+ 
+- 
  [内网安全——利用NSA Smbtouch批量检测内网](https://3gstudent.github.io/3gstudent.github.io/%E5%86%85%E7%BD%91%E5%AE%89%E5%85%A8-%E5%88%A9%E7%94%A8NSA-Smbtouch%E6%89%B9%E9%87%8F%E6%A3%80%E6%B5%8B%E5%86%85%E7%BD%91/)
  
 - 
@@ -323,19 +362,61 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [渗透测试中的msiexec](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84msiexec/)
  
 - 
+ [渗透测试中的Node.js——Downloader的实现](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84Node.js-Downloader%E7%9A%84%E5%AE%9E%E7%8E%B0/)
+ 
+- 
+ [渗透测试中的Node.js——利用C++插件隐藏真实代码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84Node.js-%E5%88%A9%E7%94%A8C++%E6%8F%92%E4%BB%B6%E9%9A%90%E8%97%8F%E7%9C%9F%E5%AE%9E%E4%BB%A3%E7%A0%81/)
+ 
+- 
  [渗透测试中的Volume Shadow Copy](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84Volume-Shadow-Copy/) 
+ 
+- 
+ [渗透基础——端口转发与代理](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91%E4%B8%8E%E4%BB%A3%E7%90%86/)
  
 - 
  [渗透基础——获得当前系统已安装的程序列表](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%BE%97%E5%BD%93%E5%89%8D%E7%B3%BB%E7%BB%9F%E5%B7%B2%E5%AE%89%E8%A3%85%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%88%97%E8%A1%A8/)
  
 - 
+ [渗透基础——使用Go语言开发socks代理工具](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E4%BD%BF%E7%94%A8Go%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91socks%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7/)
+ 
+- 
  [渗透基础——选择一个合适的C2域名](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E9%80%89%E6%8B%A9%E4%B8%80%E4%B8%AA%E5%90%88%E9%80%82%E7%9A%84C2%E5%9F%9F%E5%90%8D/)
  
 - 
- 渗透基础——Windows下计划任务的使用
+ [渗透技巧——PPTP口令的获取与爆破](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-PPTP%E5%8F%A3%E4%BB%A4%E7%9A%84%E8%8E%B7%E5%8F%96%E4%B8%8E%E7%88%86%E7%A0%B4/) 
+ 
+- 
+ [渗透技巧——Windows command line process auditing的绕过](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows-command-line-process-auditing%E7%9A%84%E7%BB%95%E8%BF%87/)
+ 
+- 
+ [渗透技巧——Windows Token九种权限的利用](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows-Token%E4%B9%9D%E7%A7%8D%E6%9D%83%E9%99%90%E7%9A%84%E5%88%A9%E7%94%A8/)
+ 
+- 
+ [渗透技巧——Windows下NTFS文件的时间属性](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E4%B8%8BNTFS%E6%96%87%E4%BB%B6%E7%9A%84%E6%97%B6%E9%97%B4%E5%B1%9E%E6%80%A7/)
+ 
+- 
+ [渗透技巧——Windows下NTFS文件的USN Journal](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E4%B8%8BNTFS%E6%96%87%E4%BB%B6%E7%9A%84USN-Journal/)
+ 
+- 
+ [渗透技巧——Windows下的Access Control List](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E4%B8%8B%E7%9A%84Access-Control-List/)
+ 
+- 
+ [渗透技巧——Windows下的Remote Registry](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E4%B8%8B%E7%9A%84Remote-Registry/)
+ 
+- 
+ [渗透基础——Windows下计划任务的使用](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-Windows%E4%B8%8B%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E7%9A%84%E4%BD%BF%E7%94%A8/)
+ 
+- 
+ [渗透技巧——Windows中net session的利用](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E4%B8%ADnet-session%E7%9A%84%E5%88%A9%E7%94%A8/)
+ 
+- 
+ [渗透技巧——Junction Folders和Library Files的后门利用](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Junction-Folders%E5%92%8CLibrary-Files%E7%9A%84%E5%90%8E%E9%97%A8%E5%88%A9%E7%94%A8/)
  
 - 
  [渗透技巧——Pass the Hash with Remote Desktop](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Pass-the-Hash-with-Remote-Desktop/)
+ 
+- 
+ [渗透技巧——RecentFileCache.bcf和Amcache.hve单条记录的清除](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-RecentFileCache.bcf%E5%92%8CAmcache.hve%E5%8D%95%E6%9D%A1%E8%AE%B0%E5%BD%95%E7%9A%84%E6%B8%85%E9%99%A4/)
  
 - 
  [渗透技巧——Token窃取与利用](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Token%E7%AA%83%E5%8F%96%E4%B8%8E%E5%88%A9%E7%94%A8/)
@@ -347,7 +428,13 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [渗透技巧——Windows日志的删除与绕过](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E6%97%A5%E5%BF%97%E7%9A%84%E5%88%A0%E9%99%A4%E4%B8%8E%E7%BB%95%E8%BF%87/)
 
 - 
+ [渗透技巧——Windows单条日志的删除](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E7%9A%84%E5%88%A0%E9%99%A4/)
+
+- 
  [渗透技巧——Windows系统的帐户隐藏](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%B8%90%E6%88%B7%E9%9A%90%E8%97%8F/)
+
+- 
+ [渗透技巧——Windows系统文件执行记录的获取与清除](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E6%89%A7%E8%A1%8C%E8%AE%B0%E5%BD%95%E7%9A%84%E8%8E%B7%E5%8F%96%E4%B8%8E%E6%B8%85%E9%99%A4/)
 
 - 
  [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
@@ -395,6 +482,9 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [渗透技巧——利用PHP脚本从浏览器中获得Net-NTLM hash](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%88%A9%E7%94%A8PHP%E8%84%9A%E6%9C%AC%E4%BB%8E%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E8%8E%B7%E5%BE%97Net-NTLM-hash/)
  
 - 
+ [渗透技巧——利用虚拟磁盘实现的“无文件”](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%88%A9%E7%94%A8%E8%99%9A%E6%8B%9F%E7%A3%81%E7%9B%98%E5%AE%9E%E7%8E%B0%E7%9A%84-%E6%97%A0%E6%96%87%E4%BB%B6/)
+ 
+- 
  [渗透技巧——快捷方式文件的参数隐藏技巧](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E6%96%87%E4%BB%B6%E7%9A%84%E5%8F%82%E6%95%B0%E9%9A%90%E8%97%8F%E6%8A%80%E5%B7%A7/)
 
 - 
@@ -416,7 +506,7 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [渗透技巧——通过SAM数据库获得本地用户hash](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E9%80%9A%E8%BF%87SAM%E6%95%B0%E6%8D%AE%E5%BA%93%E8%8E%B7%E5%BE%97%E6%9C%AC%E5%9C%B0%E7%94%A8%E6%88%B7hash/)
  
 - 
- 渗透技巧——Windows系统的文件恢复与删除
+ [渗透技巧——Windows系统的文件恢复与删除](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D%E4%B8%8E%E5%88%A0%E9%99%A4/)
  
 - 
  [渗透技巧——"隐藏"注册表的创建](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E9%9A%90%E8%97%8F-%E6%B3%A8%E5%86%8C%E8%A1%A8%E7%9A%84%E5%88%9B%E5%BB%BA/)
@@ -437,6 +527,9 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [通过COM组件IARPUninstallStringLauncher绕过UAC](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87COM%E7%BB%84%E4%BB%B6IARPUninstallStringLauncher%E7%BB%95%E8%BF%87UAC/)
  
 - 
+ [通过模拟可信目录绕过UAC的利用分析](https://3gstudent.github.io/3gstudent.github.io/%E9%80%9A%E8%BF%87%E6%A8%A1%E6%8B%9F%E5%8F%AF%E4%BF%A1%E7%9B%AE%E5%BD%95%E7%BB%95%E8%BF%87UAC%E7%9A%84%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90/)
+ 
+- 
  [隐写技巧——在PE文件的数字证书中隐藏Payload](https://3gstudent.github.io/3gstudent.github.io/%E9%9A%90%E5%86%99%E6%8A%80%E5%B7%A7-%E5%9C%A8PE%E6%96%87%E4%BB%B6%E7%9A%84%E6%95%B0%E5%AD%97%E8%AF%81%E4%B9%A6%E4%B8%AD%E9%9A%90%E8%97%8FPayload/)
 
 - 
@@ -449,6 +542,15 @@ Github:   [3gstudent](https://github.com/3gstudent)
  [隐写技巧——利用PNG文件格式隐藏Payload](https://3gstudent.github.io/3gstudent.github.io/%E9%9A%90%E5%86%99%E6%8A%80%E5%B7%A7-%E5%88%A9%E7%94%A8PNG%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F%E9%9A%90%E8%97%8FPayload/) 
 
 - 
+ [域渗透——DNS记录的获取](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-DNS%E8%AE%B0%E5%BD%95%E7%9A%84%E8%8E%B7%E5%8F%96/)
+
+- 
+ 域渗透——普通用户权限获得DNS记录
+
+- 
+ [域渗透——Kerberoasting](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Kerberoasting/)
+
+- 
  [域渗透——Pass The Hash的实现](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Pass-The-Hash%E7%9A%84%E5%AE%9E%E7%8E%B0/)
 
 - 
@@ -456,6 +558,12 @@ Github:   [3gstudent](https://github.com/3gstudent)
 
 - 
  [域渗透——利用DCOM在远程系统执行程序](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E5%88%A9%E7%94%A8DCOM%E5%9C%A8%E8%BF%9C%E7%A8%8B%E7%B3%BB%E7%BB%9F%E6%89%A7%E8%A1%8C%E7%A8%8B%E5%BA%8F/)
+
+- 
+ [域渗透——利用GPO中的计划任务实现远程执行](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E5%88%A9%E7%94%A8GPO%E4%B8%AD%E7%9A%84%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C/)
+ 
+- 
+ [域渗透——利用GPO中的计划任务实现远程执行(命令行实现原理与脚本细节)](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E5%88%A9%E7%94%A8GPO%E4%B8%AD%E7%9A%84%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C(%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E8%84%9A%E6%9C%AC%E7%BB%86%E8%8A%82)/)
 
 - 
  [域渗透——利用SYSVOL还原组策略中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E5%88%A9%E7%94%A8SYSVOL%E8%BF%98%E5%8E%9F%E7%BB%84%E7%AD%96%E7%95%A5%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
